@@ -6,9 +6,9 @@ const porta = 3333
 
 function mostraMulher(request , response){
    response.json({
-    nome:'Solange santos' ,
-    imagem:'https://1drv.ms/i/s!Agy24ITxOz0UmA_PJxYbOtoawBTT?e=WlhPH2' ,
-    minibio:'sou aluna no curso de progamaria'
+    nome:'Simara Conceição' ,
+    imagem:'https://avatars.githubusercontent.com/u/50921892?v=4' ,
+    minibio:'Desenvovedora e instrutora'
    })
 }
 

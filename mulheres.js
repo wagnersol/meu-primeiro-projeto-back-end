@@ -6,18 +6,18 @@ const porta = 3333
 
 const mulheres = [
     {
-       nome: 'Solange santos' ,
-       imagem: 'https://1drv.ms/i/s!Agy24ITxOz0UmA_PJxYbOtoawBTT?e=WlhPH2' ,
-       minibio:'Sou aluna no curso de progamaria'
+       nome: 'Simara Conceição' ,
+       imagem: 'https://avatars.githubusercontent.com/u/50921892?v=4' ,
+       minibio:'Desenvovedora e instrutora'
     },
     {
-       nome:'Atonia Santos' ,
-       imagem: 'https://1drv.ms/i/s!Agy24ITxOz0UmABKN7TCft2A_BkB?e=R1dquH' ,
-       monibio:'Formanda em Educação Física'
+       nome:'Iana Chan' ,
+       imagem: 'https://media.licdn.com/dms/image/D4D03AQH94QQ7TrKasQ/profile-displayphoto-shrink_800_800/0/1686007268307?e=1715817600&v=beta&t=G82SJ-4bOdQd_Kon5W5pGCz2dZ6r7USX35hLAM8XVL8' ,
+       monibio:'Fundadora da PrograMaria'
     },
     {
-        nome:'Rita da Conceicao' ,
-        imagem: 'https://1drv.ms/i/s!Agy24ITxOz0UgwSC4LadTm05GYDT?e=I1mT0x' ,
+        nome:'Nina da Hora' ,
+        imagem: 'https://bit.ly/3FKpFaz' ,
         monibio:'Racker antirracista'
     }
 ]
